@@ -1,0 +1,5 @@
+C:\Users\ChristianRomeroCalic\source\repos\EmployeeCleanArchitecture\Employee. Infrastructure\obj\Debug\net6.0\Employee.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ChristianRomeroCalic\source\repos\EmployeeCleanArchitecture\Employee. Infrastructure\obj\Debug\net6.0\Employee.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChristianRomeroCalic\source\repos\EmployeeCleanArchitecture\Employee. Infrastructure\obj\Debug\net6.0\Employee.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ChristianRomeroCalic\source\repos\EmployeeCleanArchitecture\Employee. Infrastructure\obj\Debug\net6.0\Employee.Infrastructure.AssemblyInfo.cs
+C:\Users\ChristianRomeroCalic\source\repos\EmployeeCleanArchitecture\Employee. Infrastructure\obj\Debug\net6.0\Employee.Infrastructure.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+C:\Users\ChristianRomeroCalic\source\repos\EmployeeCleanArchitecture\Employee.Infrastructure\bin\Debug\net6.0\Employee.Infrastructure.deps.json
+C:\Users\ChristianRomeroCalic\source\repos\EmployeeCleanArchitecture\Employee.Infrastructure\bin\Debug\net6.0\Employee.Infrastructure.dll
+C:\Users\ChristianRomeroCalic\source\repos\EmployeeCleanArchitecture\Employee.Infrastructure\bin\Debug\net6.0\ref\Employee.Infrastructure.dll
+C:\Users\ChristianRomeroCalic\source\repos\EmployeeCleanArchitecture\Employee.Infrastructure\bin\Debug\net6.0\Employee.Infrastructure.pdb
+C:\Users\ChristianRomeroCalic\source\repos\EmployeeCleanArchitecture\Employee.Infrastructure\bin\Debug\net6.0\Employee.Application.dll
+C:\Users\ChristianRomeroCalic\source\repos\EmployeeCleanArchitecture\Employee.Infrastructure\bin\Debug\net6.0\Employee.Domain.dll
+C:\Users\ChristianRomeroCalic\source\repos\EmployeeCleanArchitecture\Employee.Infrastructure\bin\Debug\net6.0\Employee.Application.pdb
+C:\Users\ChristianRomeroCalic\source\repos\EmployeeCleanArchitecture\Employee.Infrastructure\bin\Debug\net6.0\Employee.Domain.pdb
+C:\Users\ChristianRomeroCalic\source\repos\EmployeeCleanArchitecture\Employee.Infrastructure\obj\Debug\net6.0\Employee.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ChristianRomeroCalic\source\repos\EmployeeCleanArchitecture\Employee.Infrastructure\obj\Debug\net6.0\Employee.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChristianRomeroCalic\source\repos\EmployeeCleanArchitecture\Employee.Infrastructure\obj\Debug\net6.0\Employee.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ChristianRomeroCalic\source\repos\EmployeeCleanArchitecture\Employee.Infrastructure\obj\Debug\net6.0\Employee.Infrastructure.AssemblyInfo.cs
+C:\Users\ChristianRomeroCalic\source\repos\EmployeeCleanArchitecture\Employee.Infrastructure\obj\Debug\net6.0\Employee.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ChristianRomeroCalic\source\repos\EmployeeCleanArchitecture\Employee.Infrastructure\obj\Debug\net6.0\Employee.Infrastructure.csproj.CopyComplete
+C:\Users\ChristianRomeroCalic\source\repos\EmployeeCleanArchitecture\Employee.Infrastructure\obj\Debug\net6.0\Employee.Infrastructure.dll
+C:\Users\ChristianRomeroCalic\source\repos\EmployeeCleanArchitecture\Employee.Infrastructure\obj\Debug\net6.0\ref\Employee.Infrastructure.dll
+C:\Users\ChristianRomeroCalic\source\repos\EmployeeCleanArchitecture\Employee.Infrastructure\obj\Debug\net6.0\Employee.Infrastructure.pdb
